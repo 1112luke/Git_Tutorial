@@ -1,4 +1,4 @@
-# IrishSat Git Tutorial
+# 👨‍💻IrishSat Git Tutorial👩‍💻
 
 ### Requirements
 Before you do anything, make sure you:
