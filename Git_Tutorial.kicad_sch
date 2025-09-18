@@ -1,5 +1,73 @@
-(kicad_sch (version 20231120) (generator "eeschema") (generator_version "8.0")
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "33790941-c5f1-475c-b881-31b2af4cb1ae")
+	(paper "A4")
+	(lib_symbols)
+	(text "Steps to make a contribution:\n\n1. insert a sheet: place -> add sheet\n	a. Rename the sheet to whatever you want and MATCH THE NAME TO THE SHEET FILE NAME\n\n2. Add anything within the sheet\n\n3. Save and follow the instructions on github to push"
+		(exclude_from_sim no)
+		(at 86.868 45.72 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+			)
+		)
+		(uuid "334d4ff0-9a31-4a88-916f-6eb908ea7326")
+	)
+	(text "Git Tutorial"
+		(exclude_from_sim no)
+		(at 85.344 27.94 0)
+		(effects
+			(font
+				(size 3.302 3.302)
+				(thickness 0.6604)
+				(bold yes)
+			)
+		)
+		(uuid "885ca54f-54fc-4cd4-b9b7-d635b68d12ec")
+	)
+	(sheet
+		(at 137.16 74.93)
+		(size 19.05 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "372e97f7-b98c-457f-9219-37793ecd52e1")
+		(property "Sheetname" "Example_sheet"
+			(at 137.16 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "example_sheet.kicad_sch"
+			(at 137.16 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Git_Tutorial"
+				(path "/33790941-c5f1-475c-b881-31b2af4cb1ae"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )
