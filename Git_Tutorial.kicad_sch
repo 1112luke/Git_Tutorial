@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "33790941-c5f1-475c-b881-31b2af4cb1ae")
 	(paper "A4")
 	(lib_symbols)
@@ -27,9 +27,33 @@
 		)
 		(uuid "885ca54f-54fc-4cd4-b9b7-d635b68d12ec")
 	)
+	(text "Luke Scholler"
+		(exclude_from_sim no)
+		(at 229.616 32.512 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8fe90821-c2d0-461f-bd73-b9da98c48ebb")
+	)
+	(text "new brnach test\n"
+		(exclude_from_sim no)
+		(at 87.884 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d3ad6812-77ef-4051-9973-c767bee9bb1e")
+	)
 	(sheet
 		(at 137.16 74.93)
 		(size 19.05 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -70,4 +94,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
