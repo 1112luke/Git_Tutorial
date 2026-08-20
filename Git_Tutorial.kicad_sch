@@ -27,26 +27,6 @@
 		)
 		(uuid "885ca54f-54fc-4cd4-b9b7-d635b68d12ec")
 	)
-	(text "Luke Scholler"
-		(exclude_from_sim no)
-		(at 229.616 32.512 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "8fe90821-c2d0-461f-bd73-b9da98c48ebb")
-	)
-	(text "new brnach test\n"
-		(exclude_from_sim no)
-		(at 87.884 138.43 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "d3ad6812-77ef-4051-9973-c767bee9bb1e")
-	)
 	(sheet
 		(at 137.16 74.93)
 		(size 19.05 15.24)

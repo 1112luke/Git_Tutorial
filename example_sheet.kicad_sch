@@ -451,12 +451,12 @@
 		)
 		(uuid 2ee1c176-9894-4855-85a3-c215d0182d04)
 	)
-	(text "This is an example sheet. Add whatever you want!"
+	(text "This is an example sheet. Make your own and add whatever you want!!"
 		(exclude_from_sim no)
 		(at 146.05 23.622 0)
 		(effects
 			(font
-				(size 5.08 5.08)
+				(size 4.445 4.445)
 				(thickness 1.016)
 				(bold yes)
 			)
@@ -472,6 +472,36 @@
 			(type default)
 		)
 		(uuid "0368e650-ded9-4f72-aa12-d4b708fb6be4")
+	)
+	(polyline
+		(pts
+			(xy 144.78 118.11) (xy 144.78 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18105cd4-0f40-451e-9e05-41eca44f2e5b")
+	)
+	(polyline
+		(pts
+			(xy 134.62 137.16) (xy 153.67 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "410579c0-6925-4aed-b27e-23b0a9c9ef38")
+	)
+	(polyline
+		(pts
+			(xy 123.19 182.88) (xy 144.78 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "496df175-c354-4930-a2b4-cbf5809cc0de")
 	)
 	(wire
 		(pts
@@ -492,6 +522,16 @@
 			(type default)
 		)
 		(uuid "d3ae8645-aaf9-4f0f-b455-924c0faa9f23")
+	)
+	(polyline
+		(pts
+			(xy 144.78 161.29) (xy 166.37 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa6c740e-f941-48e6-ac92-2f22068a5da0")
 	)
 	(symbol
 		(lib_id "Device:C")
