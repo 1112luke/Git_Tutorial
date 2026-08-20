@@ -1,4 +1,4 @@
-# 👨‍💻IrishSat Git Tutorial👩‍💻
+# 👨‍💻NDXP Git Tutorial 👩‍💻
 
 ### Requirements
 Before you do anything, make sure you:
