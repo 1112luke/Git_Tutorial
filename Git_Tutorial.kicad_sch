@@ -47,6 +47,16 @@
 		)
 		(uuid "885ca54f-54fc-4cd4-b9b7-d635b68d12ec")
 	)
+	(text "Margaret New name!"
+		(exclude_from_sim no)
+		(at 56.515 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "95438712-4acf-449c-90aa-9cf4531cc210")
+	)
 	(sheet
 		(at 137.16 74.93)
 		(size 19.05 15.24)
