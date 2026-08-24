@@ -1,10 +1,20 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "33790941-c5f1-475c-b881-31b2af4cb1ae")
 	(paper "A4")
 	(lib_symbols)
+	(text "Margaret Mei"
+		(exclude_from_sim no)
+		(at 57.785 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1680faea-61f6-4eb3-8be3-7a0452fcfb4b")
+	)
 	(text "Steps to make a contribution:\n\n1. insert a sheet: place -> add sheet\n	a. Rename the sheet to whatever you want and MATCH THE NAME TO THE SHEET FILE NAME\n\n2. Add anything within the sheet\n\n3. Save and follow the instructions on github to push"
 		(exclude_from_sim no)
 		(at 86.868 45.72 0)
@@ -17,13 +27,13 @@
 	)
 	(text "Heather Schwartz"
 		(exclude_from_sim no)
-		(at 48.26 114.3 0)
+		(at 135.89 108.204 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "7bc47dc8-0ba3-42db-98fd-84764c6ba983")
+		(uuid "7717075a-c904-4e91-963c-7973807846aa")
 	)
 	(text "Git Tutorial"
 		(exclude_from_sim no)
@@ -50,11 +60,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "372e97f7-b98c-457f-9219-37793ecd52e1")
 		(property "Sheetname" "Example_sheet"
 			(at 137.16 74.2184 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64,6 +76,8 @@
 		)
 		(property "Sheetfile" "example_sheet.kicad_sch"
 			(at 137.16 90.7546 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
