@@ -15,6 +15,16 @@
 		)
 		(uuid "334d4ff0-9a31-4a88-916f-6eb908ea7326")
 	)
+	(text "Heather Schwartz"
+		(exclude_from_sim no)
+		(at 48.26 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7bc47dc8-0ba3-42db-98fd-84764c6ba983")
+	)
 	(text "Git Tutorial"
 		(exclude_from_sim no)
 		(at 85.344 27.94 0)
