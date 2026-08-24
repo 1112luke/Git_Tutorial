@@ -25,6 +25,16 @@
 		)
 		(uuid "334d4ff0-9a31-4a88-916f-6eb908ea7326")
 	)
+	(text "Luke Scholler"
+		(exclude_from_sim no)
+		(at 58.166 145.796 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "76d394eb-b5ef-4bb2-bda9-8a5834868fef")
+	)
 	(text "Git Tutorial"
 		(exclude_from_sim no)
 		(at 85.344 27.94 0)
